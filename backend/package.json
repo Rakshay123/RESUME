@@ -23,6 +23,7 @@
     "node-fetch": "^2.7.0",
     "nodemon": "^3.1.14",
     "pdf-parse": "^2.4.5",
-    "pdf2json": "^4.0.2"
+    "pdf2json": "^4.0.2",
+    "tesseract.js": "^5.1.0"
   }
 }
